@@ -1,4 +1,4 @@
 const data = {
-    word: "Sparta",
-    link: "https://example.com/sparta"
+    word: "MostaWEB",
+    link: "https://mosta61.rf.gd/"
 };
